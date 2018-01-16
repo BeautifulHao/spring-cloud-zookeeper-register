@@ -1,2 +1,2 @@
 # spring-cloud-zookeeper-register
-结合S-Cloud 和zookeeper 注册中心示例
+结合Spring-Cloud 和Zookeeper 注册中心示例
